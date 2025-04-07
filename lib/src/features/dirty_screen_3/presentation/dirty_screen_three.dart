@@ -1,4 +1,3 @@
-import 'package:dirty_code/src/features/dirty_screen_3/presentation/box3.dart';
 import 'package:flutter/material.dart';
 
 class DirtyScreenThree extends StatelessWidget {

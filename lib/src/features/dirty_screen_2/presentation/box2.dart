@@ -16,13 +16,13 @@ class box2 extends StatelessWidget {
       padding: const EdgeInsets.all(16.0),
       child: Row(
         children: [
-          Icon(Icons.eco),
-          SizedBox(
+          const Icon(Icons.eco),
+          const SizedBox(
             width: 8,
           ),
           Text(
             'Box $letter',
-            style: TextStyle(fontSize: 20, color: Colors.white),
+            style: const TextStyle(fontSize: 20, color: Colors.white),
           )
         ],
       ),
